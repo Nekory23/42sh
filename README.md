@@ -1,6 +1,14 @@
 # 42sh
 {EPITECH} | First year | Shell programming project
 
+You must write a Unix SHELL.
+The project consists of two sections:
+
+- a mandatory section, which MUST be completed: display a prompt, parse and execute some com-
+mands (see below),
+
+- an optional section, which will only be evaluated if the mandatory section is fully functionnal.
+
 See the subject for further details !
 
 ========================
